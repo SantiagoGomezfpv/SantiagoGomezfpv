@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Santiago Gómez</h1>
-<h3 align="center">Electronic Engineer from Medellín, Colombia. My primary focus is front-end web development. I decided to merge my technical skills with my creativity to create engaging and functional web experiences for users.</h3>
+<p align="center" width="300">
+   <img align="center" width="200" src="https://github.com/SantiagoGomezfpv/PortafolioDev/blob/main/src/assets/Foto1.png" />
+   <h1 align="center">Hi 👋, I'm Santiago Gómez</h1>
+</p>
+
+<h3 align="start">Electronic Engineer from Medellín, Colombia. My primary focus is front-end web development. I decided to merge my technical skills with my creativity to create engaging and functional web experiences for users.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
