@@ -1,5 +1,5 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://github.com/SantiagoGomezfpv/PortafolioDev/blob/main/src/assets/Foto1.png" />
+   <img align="center" width="300" src="https://github.com/SantiagoGomezfpv/PortafolioDev/blob/main/src/assets/Foto1.png" />
    <h1 align="center">Hi 👋, I'm Santiago Gómez</h1>
 </p>
 
@@ -7,6 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://santiagogomezfpv.github.io/PortafolioDev/" target="blank"><img align="center" src="https://github.com/SantiagoGomezfpv/PortafolioDev/blob/main/public/SG.svg" alt="santiago gomez ortega" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/santiago-gómez-ortega" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="santiago gomez ortega" height="30" width="40" /></a>
 </p>
 
